@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Addition_Program/Add_program"/>
 	<classpathentry kind="src" path="Hello_world/src"/>
 	<classpathentry kind="src" path="Voting_project"/>
+	<classpathentry kind="src" path="Student_Marks_sheet_Project"/>
 	<classpathentry kind="output" path="Hello_world/bin"/>
 </classpath>
