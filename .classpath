@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Addition_Program/Add_program"/>
+	<classpathentry kind="src" path="Hello_world/src"/>
+	<classpathentry kind="src" path="Voting_project"/>
+	<classpathentry kind="output" path="Hello_world/bin"/>
+</classpath>
