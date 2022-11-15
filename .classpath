@@ -9,5 +9,7 @@
 	<classpathentry kind="src" path="Hello_world/src"/>
 	<classpathentry kind="src" path="Voting_project"/>
 	<classpathentry kind="src" path="Student_Marks_sheet_Project"/>
+	<classpathentry kind="src" path="student_detail"/>
+	<classpathentry kind="src" path="First_Java_App"/>
 	<classpathentry kind="output" path="Hello_world/bin"/>
 </classpath>
